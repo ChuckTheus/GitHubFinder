@@ -1,0 +1,15 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 60px;
+    background-color: #030e4f;
+    color: #f49f1c;
+}
+
+title{
+    display: flex;
+    align-items: center;
+    margin-right: 200px;
+}
